@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn1.dotesports.com/wp-content/uploads/2021/08/17004954/League-of-Legends-Exit-Now.png)]
+![MasterHead](https://www.bing.com/th?id=OIP.2nRrhyejfXaO3Orcx1hB_gHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
 <h1 align="center">Hi 👋, I'm Ayush Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushshah2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayushshah2003" /> </p>
 
@@ -33,5 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshah2003&show_icons=true&locale=en" alt="ayushshah2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshah2003&" alt="ayushshah2003" /></p>
-
 
