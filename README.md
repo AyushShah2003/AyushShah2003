@@ -1,7 +1,8 @@
-![MasterHead](https://www.bing.com/th?id=OIP.2nRrhyejfXaO3Orcx1hB_gHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
+
 <h1 align="center">Hi 👋, I'm Ayush Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" scr="![image](https://user-images.githubusercontent.com/95910417/194385243-d41cea29-084c-41fd-8cc2-547f0d5f3e40.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushshah2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayushshah2003" /> </p>
 
