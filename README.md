@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" scr="![image](https://user-images.githubusercontent.com/95910417/194385243-d41cea29-084c-41fd-8cc2-547f0d5f3e40.png">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushshah2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayushshah2003" /> </p>
