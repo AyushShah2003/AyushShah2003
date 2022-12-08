@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **C++,frontend development and Machine Learning Projects **
+- 🔭 I’m currently working on **frontend development and Machine Learning Projects **
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyushShah2003/AyushShah2003/edit/main/README.md](https://github.com/AyushShah2003/AyushShah2003/edit/main/README.md)
 
