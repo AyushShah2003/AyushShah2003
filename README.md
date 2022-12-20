@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushshah2003" alt="ayushshah2003" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **frontend development and Machine Learning Projects **
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyushShah2003/AyushShah2003/edit/main/README.md](https://github.com/AyushShah2003/AyushShah2003/edit/main/README.md)
